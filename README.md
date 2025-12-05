@@ -12,21 +12,12 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias utilizadas
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,py,php,mongodb,mysql,github&perline=5" alt="Tech stack icons" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -41,10 +32,3 @@
     <img src="https://img.shields.io/badge/Email-antonio.2023@alunos.utfpr.edu.br-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
 </p>
-
----
-
-### 💬 Pequena frase
-
-> “Cada commit é um passo a mais entre o que estudo hoje e o dev que quero ser amanhã.”
-
