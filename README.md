@@ -32,3 +32,7 @@
     <img src="https://img.shields.io/badge/Email-antonio.2023@alunos.utfpr.edu.br-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
 </p>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=antonio-powpowO&style=for-the-badge)
